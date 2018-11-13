@@ -1,0 +1,294 @@
+/* Class = "UILabel"; text = "Period"; ObjectID = "0MJ-2P-aNU"; */
+"0MJ-2P-aNU.text" = "مدة";
+
+/* Class = "UILabel"; text = "Descrption:"; ObjectID = "0UE-kt-40N"; */
+"0UE-kt-40N.text" = "تفاصيل:";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "1LD-xi-rA0"; */
+"1LD-xi-rA0.text" = "سعر";
+
+/* Class = "UILabel"; text = "Remaining"; ObjectID = "3QR-PU-cz9"; */
+"3QR-PU-cz9.text" = "متبقي";
+
+/* Class = "UILabel"; text = "Vendor Name: "; ObjectID = "4D2-Kk-nyc"; */
+"4D2-Kk-nyc.text" = ":اسم البائع ";
+
+/* Class = "UIBarButtonItem"; title = "Profile"; ObjectID = "5CJ-nZ-x53"; */
+"5CJ-nZ-x53.title" = "البروفيل";
+
+/* Class = "UILabel"; text = "Duration"; ObjectID = "5oE-Gc-SRQ"; */
+"5oE-Gc-SRQ.text" = "فتره";
+
+/* Class = "UILabel"; text = "Brand Name"; ObjectID = "6ja-3C-Kly"; */
+"6ja-3C-Kly.text" = "الفئه";
+
+/* Class = "UILabel"; text = "Deposit"; ObjectID = "6XP-GF-rSb"; */
+"6XP-GF-rSb.text" = "مقدم";
+
+/* Class = "UITabBarItem"; title = "Approved"; ObjectID = "7gY-Jw-nev"; */
+"7gY-Jw-nev.title" = "المقبول";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "8sy-QS-d1a"; */
+"8sy-QS-d1a.text" = "السعر";
+
+/* Class = "UILabel"; text = "Period"; ObjectID = "9na-HB-Qy4"; */
+"9na-HB-Qy4.text" = "المده";
+
+/* Class = "UILabel"; text = "Remaining"; ObjectID = "9p5-rl-llN"; */
+"9p5-rl-llN.text" = "المتبقي";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "a9t-Hv-WnG"; */
+"a9t-Hv-WnG.placeholder" = "الاسم الاخير";
+
+/* Class = "UINavigationItem"; title = "Product"; ObjectID = "AAn-Ju-cht"; */
+"AAn-Ju-cht.title" = "منتج";
+
+/* Class = "UILabel"; text = "Method"; ObjectID = "aEh-lX-lM5"; */
+"aEh-lX-lM5.text" = "نظام";
+
+/* Class = "UILabel"; text = "Product Name"; ObjectID = "aRE-Im-F8i"; */
+"aRE-Im-F8i.text" = "اسم المنتج";
+
+/* Class = "UITextField"; placeholder = "ID Number"; ObjectID = "b4Y-bV-Nea"; */
+"b4Y-bV-Nea.placeholder" = "رقم الهويه";
+
+/* Class = "UILabel"; text = "Price With Loan"; ObjectID = "B82-4m-Unf"; */
+"B82-4m-Unf.text" = "سعر القسط";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "bjT-EW-or0"; */
+"bjT-EW-or0.text" = "الهاتف";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "Bzr-IW-kKP"; */
+"Bzr-IW-kKP.normalTitle" = "تسجيل";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "c9a-8I-O9i"; */
+"c9a-8I-O9i.placeholder" = "العنوان";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "cew-sC-Rm3"; */
+"cew-sC-Rm3.normalTitle" = "تسجيل دخول";
+
+/* Class = "UIButton"; normalTitle = "View"; ObjectID = "dDM-eQ-3MZ"; */
+"dDM-eQ-3MZ.normalTitle" = "عرض";
+
+/* Class = "UITabBarItem"; title = "Painding"; ObjectID = "dKV-qg-t0u"; */
+"dKV-qg-t0u.title" = "المعلق";
+
+/* Class = "UILabel"; text = "your order has been accepted please make phone call with vendor to pay your first loan and receive your order "; ObjectID = "dqc-gb-hCc"; */
+"dqc-gb-hCc.text" = "لقد تم الموافقه علي طلبك برجاء تواصل مع البائع لدفع اول قسط والمقدم واستلام  طلبك  ";
+
+/* Class = "UILabel"; text = "10000000000000000"; ObjectID = "dtc-De-yY3"; */
+"dtc-De-yY3.text" = "10000000000000000";
+
+/* Class = "UILabel"; text = "Payment Method:"; ObjectID = "EhK-Ts-gav"; */
+"EhK-Ts-gav.text" = ":طريقه الدفع";
+
+/* Class = "UILabel"; text = "Ahmed Farid"; ObjectID = "EPG-Sv-MdH"; */
+"EPG-Sv-MdH.text" = "احمد فريد";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "ePt-HO-Av0"; */
+"ePt-HO-Av0.text" = "النوع";
+
+/* Class = "UILabel"; text = "amount"; ObjectID = "ESc-dX-wP2"; */
+"ESc-dX-wP2.text" = "كميه";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "ffN-Iw-Mhm"; */
+"ffN-Iw-Mhm.text" = "اسم";
+
+/* Class = "UIButton"; normalTitle = "GUSET"; ObjectID = "fWV-ot-W1g"; */
+"fWV-ot-W1g.normalTitle" = "زائر";
+
+/* Class = "UILabel"; text = "Model Product:"; ObjectID = "g0G-To-YOQ"; */
+"g0G-To-YOQ.text" = "نوع المنتج:";
+
+/* Class = "UILabel"; text = "Deposit"; ObjectID = "GAf-42-sf0"; */
+"GAf-42-sf0.text" = "مقدم";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "gDL-QZ-2CY"; */
+"gDL-QZ-2CY.text" = "سعر";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "GXc-1q-9zs"; */
+"GXc-1q-9zs.normalTitle" = "تسجيل دخول";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "HB0-2X-Gtc"; */
+"HB0-2X-Gtc.title" = "الملف الشخصي";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hgm-fj-urM"; */
+"Hgm-fj-urM.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cach"; ObjectID = "Hhx-CD-fr9"; */
+"Hhx-CD-fr9.normalTitle" = "كاش";
+
+/* Class = "UILabel"; text = "Model Product"; ObjectID = "hLT-Z9-Yc9"; */
+"hLT-Z9-Yc9.text" = "نوع المنتج";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HSL-ib-aGf"; */
+"HSL-ib-aGf.text" = "Label";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "Hsr-Dz-Sbz"; */
+"Hsr-Dz-Sbz.text" = "سعر";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "HWF-n7-JZG"; */
+"HWF-n7-JZG.placeholder" = "اميل";
+
+/* Class = "UILabel"; text = "Product Name"; ObjectID = "iaz-mE-NdC"; */
+"iaz-mE-NdC.text" = "اسم المنتج";
+
+/* Class = "UINavigationItem"; title = "Login"; ObjectID = "Ij1-TX-PEW"; */
+"Ij1-TX-PEW.title" = "تسجيل";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "IMH-RF-1oa"; */
+"IMH-RF-1oa.placeholder" = "الاسم الاول";
+
+/* Class = "UILabel"; text = "Product Name"; ObjectID = "ip4-gc-ayD"; */
+"ip4-gc-ayD.text" = "اسم المنتج";
+
+/* Class = "UILabel"; text = "Remaining"; ObjectID = "j4d-ru-uYD"; */
+"j4d-ru-uYD.text" = "المتبقي";
+
+/* Class = "UILabel"; text = "Vendor Phone"; ObjectID = "jfO-BQ-n1B"; */
+"jfO-BQ-n1B.text" = "هاتف البائع";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "kdx-LV-wXv"; */
+"kdx-LV-wXv.text" = "النوع";
+
+/* Class = "UINavigationItem"; title = "Order By Cach"; ObjectID = "kgw-cG-Gdu"; */
+"kgw-cG-Gdu.title" = "طلب ب كاش";
+
+/* Class = "UILabel"; text = "due_date"; ObjectID = "KpV-3Q-hfR"; */
+"KpV-3Q-hfR.text" = "تاريخ الاستحقاق";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "ldK-ld-kXt"; */
+"ldK-ld-kXt.placeholder" = "الهاتف";
+
+/* Class = "UILabel"; text = "My Orders"; ObjectID = "lfH-dx-Xyn"; */
+"lfH-dx-Xyn.text" = "طلباتي";
+
+/* Class = "UILabel"; text = "Vendor Address"; ObjectID = "lgd-9g-dUe"; */
+"lgd-9g-dUe.text" = "عنوان البائع";
+
+/* Class = "UIButton"; normalTitle = "Create an account"; ObjectID = "m9l-ob-sgp"; */
+"m9l-ob-sgp.normalTitle" = "انشاء حساب";
+
+/* Class = "UIBarButtonItem"; title = "عربي"; ObjectID = "mfO-sg-JbG"; */
+"mfO-sg-JbG.title" = "english";
+
+/* Class = "UILabel"; text = "Vendor Phone:"; ObjectID = "MG7-NS-fTF"; */
+"MG7-NS-fTF.text" = "رقم البائع:";
+
+/* Class = "UILabel"; text = "amount"; ObjectID = "mif-NQ-6h1"; */
+"mif-NQ-6h1.text" = "كمية";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "MlP-8U-ezu"; */
+"MlP-8U-ezu.placeholder" = "اميل";
+
+/* Class = "UILabel"; text = "Payment Amount"; ObjectID = "MOK-MR-1Do"; */
+"MOK-MR-1Do.text" = "كميه المدفوعات";
+
+/* Class = "UILabel"; text = "collection_date"; ObjectID = "nf1-XS-qKU"; */
+"nf1-XS-qKU.text" = "تاريخ دفع القسط";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ngd-8z-1Id"; */
+"ngd-8z-1Id.text" = "Label";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "Ntk-pD-Lqf"; */
+"Ntk-pD-Lqf.text" = "سعر";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "nTT-H0-Orf"; */
+"nTT-H0-Orf.text" = "سعر";
+
+/* Class = "UILabel"; text = "Total Price"; ObjectID = "NtT-Qa-Idk"; */
+"NtT-Qa-Idk.text" = "السعر الكلي";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "OAT-SK-rqL"; */
+"OAT-SK-rqL.placeholder" = "كلمه المرور";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "oC3-pm-D0D"; */
+"oC3-pm-D0D.text" = "سعر";
+
+/* Class = "UILabel"; text = "Duration"; ObjectID = "OVE-kM-ZMs"; */
+"OVE-kM-ZMs.text" = "فتره";
+
+/* Class = "UILabel"; text = "Payment Amount"; ObjectID = "pf1-9N-dNB"; */
+"pf1-9N-dNB.text" = "كميات الدفع";
+
+/* Class = "UILabel"; text = "Vendor Address:"; ObjectID = "Ppe-no-9AJ"; */
+"Ppe-no-9AJ.text" = "عنوان البائع:";
+
+/* Class = "UILabel"; text = "Category Name:"; ObjectID = "PYo-UJ-fYu"; */
+"PYo-UJ-fYu.text" = "اسم الفئه:";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "q1m-rN-XK3"; */
+"q1m-rN-XK3.placeholder" = "كلمه المرور";
+
+/* Class = "UILabel"; text = "Product Name"; ObjectID = "sps-m7-TrO"; */
+"sps-m7-TrO.text" = "اسم المنتج";
+
+/* Class = "UILabel"; text = "Vendor Name"; ObjectID = "sq3-hs-uD8"; */
+"sq3-hs-uD8.text" = "اسم البائع";
+
+/* Class = "UILabel"; text = "Loan System"; ObjectID = "Szy-Bv-ya2"; */
+"Szy-Bv-ya2.text" = "نظام التقسيط";
+
+/* Class = "UILabel"; text = "Vendor Name: "; ObjectID = "t7L-CL-O6r"; */
+"t7L-CL-O6r.text" = "اسم البائع:";
+
+/* Class = "UILabel"; text = "Brand Name"; ObjectID = "TfU-7x-FzG"; */
+"TfU-7x-FzG.text" = "النوع:";
+
+/* Class = "UILabel"; text = "First Payment Date"; ObjectID = "tVY-gD-OhI"; */
+"tVY-gD-OhI.text" = "تاريخ اول قسط";
+
+/* Class = "UILabel"; text = "Product Name"; ObjectID = "UcC-bl-CZJ"; */
+"UcC-bl-CZJ.text" = "اسم المنتج";
+
+/* Class = "UIButton"; normalTitle = "Uppload ID Photo"; ObjectID = "ucR-ZG-luf"; */
+"ucR-ZG-luf.normalTitle" = "تحميل صوره الهويه";
+
+/* Class = "UILabel"; text = "Vendor Phone:"; ObjectID = "UGZ-b1-Jcs"; */
+"UGZ-b1-Jcs.text" = "هاتف البائع:";
+
+/* Class = "UINavigationItem"; title = "Order By Loan "; ObjectID = "UIV-Jc-cLN"; */
+"UIV-Jc-cLN.title" = "طلب قسط ";
+
+/* Class = "UILabel"; text = "Vendor Phone:"; ObjectID = "uRw-fl-LQc"; */
+"uRw-fl-LQc.text" = "هاتف البائع:";
+
+/* Class = "UINavigationItem"; title = "Register"; ObjectID = "UsH-fU-QLH"; */
+"UsH-fU-QLH.title" = "تسجيل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UTm-DC-f1u"; */
+"UTm-DC-f1u.text" = "Label";
+
+/* Class = "UILabel"; text = "Status Color"; ObjectID = "Wem-pr-SBe"; */
+"Wem-pr-SBe.text" = "حالتي";
+
+/* Class = "UILabel"; text = "10000000000000000"; ObjectID = "xKw-UM-Xb8"; */
+"xKw-UM-Xb8.text" = "10000000000000000";
+
+/* Class = "UILabel"; text = "Payment Method:"; ObjectID = "XLY-da-P1w"; */
+"XLY-da-P1w.text" = "نظام الدفع:";
+
+/* Class = "UILabel"; text = "Method"; ObjectID = "y9j-Ui-PCe"; */
+"y9j-Ui-PCe.text" = "نضام";
+
+/* Class = "UINavigationItem"; title = "QASSAT"; ObjectID = "yej-dC-m8B"; */
+"yej-dC-m8B.title" = "قسط";
+
+/* Class = "UILabel"; text = "Category Name"; ObjectID = "yFb-YK-czA"; */
+"yFb-YK-czA.text" = "اسم الفئة";
+
+/* Class = "UIButton"; normalTitle = "Order"; ObjectID = "Yff-Kj-H2J"; */
+"Yff-Kj-H2J.normalTitle" = "طلب";
+
+/* Class = "UILabel"; text = "Vendor Name:"; ObjectID = "yjb-0g-yy1"; */
+"yjb-0g-yy1.text" = "اسم البائع:";
+
+/* Class = "UIButton"; normalTitle = "Order"; ObjectID = "z2y-fo-gFy"; */
+"z2y-fo-gFy.normalTitle" = "طلب";
+
+/* Class = "UINavigationItem"; title = "My payment Details"; ObjectID = "ZMq-we-2Wl"; */
+"ZMq-we-2Wl.title" = "تفاصيل المدفوعات";
+
+/* Class = "UILabel"; text = "Deposit"; ObjectID = "zwe-3J-9eu"; */
+"zwe-3J-9eu.text" = "المقدم";
+

@@ -1,0 +1,4 @@
+/* Bundle name */
+"CFBundleName" = "$(PRODUCT_NAME)";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "your SignUp need your snn image ";
